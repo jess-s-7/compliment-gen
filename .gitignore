@@ -1,0 +1,14 @@
+# Environment and credentials
+.env
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local documents
+*.docx
